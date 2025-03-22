@@ -58,3 +58,4 @@ This project is an authentication system built using the SERN stack (SQL, Expres
    ```sh
    npm run start or yarn start
    ```
+# Auth-JWT-System
