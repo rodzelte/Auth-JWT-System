@@ -3,11 +3,11 @@
 [![MIT License][license-shield]][license-url]
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Chysev/auth-system-jwt-sern/blob/main/LICENSE
+[license-url]: https://github.com/rodzelte/Auth-JWT-System.git
 
 ### About the Project
 
-This project is an authentication system built using the SERN stack (SQL, Express, React, and Node.js). It provides user authentication jwt based functionalities such as registration, login, and logout.
+This project is an authentication system built using the SERN stack (SQL, Express, React, and Node.js). It provides user authentication jwt based functionalities such as registration, login, and logout. Im Tired AF!
 
 ### FEATURES
 
@@ -36,7 +36,7 @@ This project is an authentication system built using the SERN stack (SQL, Expres
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Chysev/auth-system-jwt-sern
+   git clone https://github.com/rodzelte/Auth-JWT-System.git
    ```
 2. Config the dotenv (Backend)
    ```sh
@@ -58,5 +58,3 @@ This project is an authentication system built using the SERN stack (SQL, Expres
    ```sh
    npm run start or yarn start
    ```
-# Auth-JWT-System
-# Auth-JWT-System
