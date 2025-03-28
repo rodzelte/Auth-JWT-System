@@ -7,7 +7,7 @@
 
 ### About the Project
 
-This project is an authentication system built using the SERN stack (SQL, Express, React, and Node.js). It provides user authentication jwt based functionalities such as registration, login, and logout. Im Tired AF!
+This project is an authentication system built using the SERN stack (SQL, Express, React, and Node.js). It provides user authentication jwt based functionalities such as registration, login, and logout. IM TIRED JUST PULL
 
 ### FEATURES
 
